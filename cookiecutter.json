@@ -1,0 +1,12 @@
+{
+    "project_name": "django-package",
+    "package_name": "{{ cookiecutter.project_name|lower|replace('-','_') }}",
+    "project_description": "A Django package that does cool things",
+    "organization": "myorg",
+    "full_name": "Example Person",
+    "email": "test@test.com",
+
+    "_copy_without_render": [
+        ".github/workflows/*.yml"
+    ]
+}

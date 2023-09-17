@@ -17,5 +17,5 @@ pip install {{ cookiecutter.project_name }}
 
 ## License
 
-[MIT](https://github.com/{{ cookiecutter.organization }}/{{ cookiecutter.project_name }}/blob/master/LICENSE)
+[MIT](https://github.com/{{ cookiecutter.organization }}/{{ cookiecutter.project_name }}/blob/main/LICENSE)
 
